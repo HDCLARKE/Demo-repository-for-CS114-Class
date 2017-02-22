@@ -17,7 +17,7 @@ int main() {
 		counter[c] = 0;
 	}
 	
-	cout << "Letter Counter:\n";
+	cout << "Letter Counter Please stop with the nonsense:\n";
 	char letter;
 	cin >> letter;	
 
